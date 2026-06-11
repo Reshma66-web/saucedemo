@@ -109,7 +109,7 @@ test("sauce demo",async({page})=>{
     await productpage.product1()
     await checkoutpage.checkout()
     await logoutpage.logout()
-
+    // jenkins
 
 })
 
